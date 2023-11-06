@@ -18,7 +18,7 @@ different parameters.
 
 When used in conjunction with OpCon Self Service, it allows users to start report tasks from the web selecting answers to prompts from drop down lists. 
 
-![SAP Business Objects Overview](/img/sapbo-connector-overview.png)
+![SAP Business Objects Overview](../static/img/sapbo-connector-overview.png)
 
 The SAP Business Objects Connector supports a START job type which can used be used to communicate with the SAP Business Objects batch environment.
 
